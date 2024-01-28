@@ -5,14 +5,14 @@ User Interface to have a conversation with multiple bots. Helpful for tuning you
 ![screenshot of chats](./screenshots/Multi_chat1.png)
 
 ## Trigger bot responses manually to moderate the conversation, or troubleshoot chain events
-![screenshot of chats](./screenshots/bot_selector.png)
+![screenshot of bot selection](./screenshots/bot selector.png)
 
 ### How to use
 * streamlit can be run via command line
 ``` C:> streamlit run main.py ```
 * Add your openai key on prompt_admin.py file.
 * You can change the default model in prompt_admin.py file.
-  ![screenshot of chats](./screenshots/model_selection.png)
+  ![screenshot of model input](./screenshots/model selection.png)
 * Adjust your prompts and backstories in the characters.py file
 
 ## Credits
