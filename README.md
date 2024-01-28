@@ -1,7 +1,8 @@
 # AI-Moderator
 User Interface to have a conversation with multiple bots. Helpful for tuning your agent prompts and visualizing what they are saying. Agents are great, and chaining them together is awesome. But it can be troublesome to let them run wild without watching what they are doing. In this interface, you are the moderator, you determine which bot is next up in the queue and you get to watch their output before moving on.
 
-# pic here of convo
+## How it looks:
+![screenshot of chats](./screenshots/Multi_chat1.png)
 
 # pic here of how to select app
 
